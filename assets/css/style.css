@@ -37,6 +37,7 @@ a {
   text-shadow: 1px 0 0 currentColor;
 }
 .nav li.action a::after {
+  display: block;
   content: "";
   width: 12px;
   height: 2px;
